@@ -2,7 +2,6 @@
 
 (in-package #:cnd)
 
-;;; "cnd" goes here. Hacks and glory await!
 
 (defun text-renderer (renderer font string)
   (let* ((surface (sdl2-ttf:render-text-blended font
