@@ -1,5 +1,6 @@
 -------TODO-------
 [x] Adjustable/Scalable write-text function
+[] Text navigation ui (Ex: Next and Previous button)
 [] speech bubble like text wrappers
 [] Functions that draws a stack of texts in a main menu like style
 [] simple touch support functions
